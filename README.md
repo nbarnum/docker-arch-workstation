@@ -13,7 +13,7 @@ Successfully built 90600f001c0e
 Successfully tagged arch-workstation:latest
 ```
 
-*_Warning: Docker image is large, > 3 GB unextracted on disk_*
+*_Warning: Docker image is large, > 3 GB extracted on disk_*
 
 ## Running
 
